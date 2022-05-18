@@ -1,0 +1,19 @@
+{
+  "name": "repo_playwright2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.21.1",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "ts-replace-all": "^1.0.0"
+  }
+}

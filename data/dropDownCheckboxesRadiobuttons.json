@@ -1,0 +1,35 @@
+{
+
+    "backendLanguage":[
+        "java",
+        "c#",
+        "python",
+        "sql"
+    ],
+    "tools":[
+        "eclipse",
+        "maven",
+        "testng",
+        "junit"
+    ],
+    "frontLanguage":[
+        "html",
+        "css",
+        "javascript",
+        "jquery"
+    ],
+
+    "checkboxes":[
+        "#checkboxes [value=option-1]",
+        "#checkboxes [value=option-2]",
+        "#checkboxes [value=option-3]",
+        "#checkboxes [value=option-4]"
+    ],
+    "radioButtons":[
+        "#radio-buttons [value=green]",
+        "#radio-buttons [value=blue]",
+        "#radio-buttons [value=yellow]",
+        "#radio-buttons [value=orange]",
+        "#radio-buttons [value=purple]"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "firstName": "Michal",
+  "lastName": "Siedlecki",
+  "email": "michal.siedlecki@gmail.com",
+  "message": "hello ...",
+  "errorMessageForEmptyFields" : "Error: all fields are required",
+  "errorMessageForInvalidEmail" : "Error: Invalid email address",
+  "messageForHappyPath" : "Thank You for your Message!"
+}
